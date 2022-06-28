@@ -286,3 +286,9 @@ a {
 .copyright {
     margin-top: 5rem;
 }
+
+
+.copyright strong {
+    font-family: var(--secondaryFont);
+}
+
