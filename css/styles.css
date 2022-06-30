@@ -200,7 +200,7 @@ a {
 
 @media (min-width: 768px) { 
     .sobre-nosotros {
-        background-image: linear-gradient(to right, transparent 50%, #037bc0 50%, #037bc0 100%), url(../img/pan-ayote.jpg);
+        background-image: linear-gradient(to right, transparent 50%, var(--primary) 50%, var(--secondary) 100%), url(../img/pan-ayote.jpg);
         background-position: top left;
         padding: 10rem 0;
         object-fit: cover;
